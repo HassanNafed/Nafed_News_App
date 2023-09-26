@@ -3,14 +3,24 @@
 A new Flutter project.
 
 ## Getting Started
+##
+![30](https://github.com/HassanNafed/Nafed_News_App/assets/128227283/e18740df-a0af-4f28-a3de-2fcb5f2e99fd)
+##
+![31](https://github.com/HassanNafed/Nafed_News_App/assets/128227283/c86470d1-0716-430f-b448-2136fcdbd73c)
+##
+![32](https://github.com/HassanNafed/Nafed_News_App/assets/128227283/6cdd5ca0-8c95-44c9-a3ee-bcf402fb0fe7)
+##
 
-This project is a starting point for a Flutter application.
+![33](https://github.com/HassanNafed/Nafed_News_App/assets/128227283/0899bfb7-176c-458c-8e08-7e0c537676bc)
+##
 
-A few resources to get you started if this is your first Flutter project:
+![34](https://github.com/HassanNafed/Nafed_News_App/assets/128227283/a6216304-6266-4440-821c-2086be415fa3)
+##
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![35](https://github.com/HassanNafed/Nafed_News_App/assets/128227283/8d6e96fa-f3f9-47bf-bff5-071a809213df)
+##
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![36](https://github.com/HassanNafed/Nafed_News_App/assets/128227283/1bf253d2-c251-45de-9b3b-7fcddc4fcb73)
+##
+
+![37](https://github.com/HassanNafed/Nafed_News_App/assets/128227283/e9dfdfbf-8450-404c-8df0-fac43fc25b98)
