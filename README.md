@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 ##
+![38](https://github.com/HassanNafed/Nafed_News_App/assets/128227283/7fa22e86-1dc1-4197-9e8c-335d2f35e35b)
+![39](https://github.com/HassanNafed/Nafed_News_App/assets/128227283/9a3685a3-290d-4f03-81c8-a42dc5d82e41)
+##
 ![30](https://github.com/HassanNafed/Nafed_News_App/assets/128227283/e18740df-a0af-4f28-a3de-2fcb5f2e99fd)
 ##
 ![31](https://github.com/HassanNafed/Nafed_News_App/assets/128227283/c86470d1-0716-430f-b448-2136fcdbd73c)
